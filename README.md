@@ -18,15 +18,15 @@ As a developer, you will be writing tests for every component. As we've learned,
 
 ## Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your team lead as collaborator on Github.
-- [ ] Clone your OWN version of the repository in your terminal.
-- [ ] CD into the project base directory.
-- [ ] Download project dependencies by running `npm install`.
-- [ ] Start up the app using `npm start`.
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [done] Create a forked copy of this project.
+- [done] Add your team lead as collaborator on Github.
+- [done] Clone your OWN version of the repository in your terminal.
+- [done] CD into the project base directory.
+- [done] Download project dependencies by running `npm install`.
+- [done] Start up the app using `npm start`.
+- [done] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [done] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [done] Push commits: git push origin `<firstName-lastName>`.
 
 **Test Runner**
 - [ ] In a new terminal window, run `npm test`
